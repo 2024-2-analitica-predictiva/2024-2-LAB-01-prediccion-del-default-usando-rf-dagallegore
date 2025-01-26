@@ -67,8 +67,7 @@
 #
 #
 # Paso 5.
-# Guarde el modelo (comprimido con gzip) como "files/models/model.pkl.gz".
-# Recuerde que es posible guardar el modelo comprimido usanzo la libreria gzip.
+# Guarde el modelo como "files/models/model.pkl".
 #
 #
 # Paso 6.
